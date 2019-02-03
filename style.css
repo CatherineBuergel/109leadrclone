@@ -8,6 +8,10 @@
   height: 40%;
 }
 
+.featured {
+  height: 40vh;
+}
+
 .vid-block {
   height: 300px;
 }
